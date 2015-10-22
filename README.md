@@ -1,4 +1,4 @@
-# Tower-Defense
+# Tower Defense
 ![screenshot](misc/1.png)
 
 Tower defense game created using Unity
