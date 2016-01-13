@@ -1,7 +1,7 @@
 # Tower Defense
 ![screenshot](misc/1.png)
 
-Tower defense game created using Unity
+Tower defense game created using Unity (C#)
 
 Install the [Unity Web Player Plugin](https://unity3d.com/webplayer) 
 on your favourite compatible browser 
